@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 100%;
+    width: 95%;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+}
+
+.csss {
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.static {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 41px;
+    margin-top: -35px;
+    margin-left: 700px;
+    position: relative;
+}
+
+.boshqismi {
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+
+.boshqismi:hover {
+    text-shadow: 5px 5px 10px white;
+}
+
+.rec {
+    background-image: url(./Rectangle\ 2.png);
+    width: 1440px;
+    height: 594px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.tort {
+    background-color: red;
+    width: 237px;
+    height: 209px;
+    margin-top: 173px;
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: -1px;
+    box-shadow: 0px 5px 15px red;
+}
+
+.p1 {
+    color: white;
+    text-shadow: 0px 5px 10px white;
+}
+
+.ichida {
+    box-shadow: 0px 5px 15px #32FB00;
+    background-color: #32FB00;
+    width: 237px;
+    height: 209px;
+    margin-left: 87px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.p2 {
+    margin-top: 130px;
+    color: red;
+    text-shadow: 0px 5px 10px white;
+}
+
+.aval {
+    background-color: red;
+    width: 411px;
+    border-radius: 100px;
+    height: 209px;
+    margin-left: 504px;
+    margin-top: -290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: -1px;
+    box-shadow: 0px 5px 15px red;
+}
+
+.p3 {
+    color: white;
+    text-shadow: 0px 5px 10px white;
+}
+
+.pass {
+    box-shadow: 0px 5px 15px #32FB00;
+    background-color: #32FB00;
+    width: 237px;
+    height: 209px;
+    margin-left: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -210px;
+}
+
+.p4 {
+    margin-top: 130px;
+    color: red;
+    text-shadow: 0px 5px 10px white;
+}
+
+.tort22 {
+    background-color: red;
+    width: 237px;
+    height: 209px;
+    box-shadow: 0px 5px 15px red;
+    margin-top: -290px;
+    margin-left: 970px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: -1px;
+}
+
+.p5 {
+    color: white;
+    text-shadow: 0px 5px 10px white;
+}
+
+.ichida22 {
+    box-shadow: 0px 5px 15px #32FB00;
+    background-color: #32FB00;
+    width: 237px;
+    height: 209px;
+    margin-left: 1050px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -210px;
+}
+
+.p6 {
+    color: red;
+    margin-top: 130px;
+    text-shadow: 0px 5px 10px white;
+}
+
+.oq {
+    background-color: white;
+    width: 602px;
+    height: 75px;
+    border-radius: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    box-shadow: 0px 10px 15px white;
+}
+
+.pos {
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.info {}
+
+.qora {
+    background-color: white;
+    width: 602px;
+    height: 75px;
+    border-radius: 30px;
+    margin-top: 79px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 450px;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    box-shadow: 0px 10px 15px white;
+}
+
+.brovvn {
+    width: 368px;
+    height: 332px;
+    background-color: #7B2525;
+    margin-top: 127px;
+}
+
+.star {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 0px 5px 10px white;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.default {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin-top: 147px;
+    text-align: center;
+}
+.ovvn{
+    width: 368px;
+    height: 332px;
+    background-color: #7B2525;
+    margin-top: 127px;
+}
+.perviy{
+    margin-top: 160px;
+    margin-left: 10px;
+}
+.rev{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 0px 5px 10px white;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.vtor{
+    width: 368px;
+    height: 332px;
+    background-color: #7B2525;
+    margin-top: 127px;
+}
+.obb{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 0px 5px 10px white;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.two{
+    margin-top: 80px;
+    margin-left: 15px;
+}
+.uchta{
+    display: flex;
+    gap: 88px;
+    margin-left: 87px;
+}
+.top{
+    display: flex;
+    gap: 50px;
+    margin-left: 1000px;
+    margin-top: -50px;
+}
+footer{
+    margin-top: 106px;
+}
+.soya{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+.soya:hover{
+    text-shadow: 5px 5px 10px white;
+}
